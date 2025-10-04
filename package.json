@@ -1,0 +1,28 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "A Netflix clone built with HTML, CSS, JavaScript and Netlify Functions",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "dev": "netlify dev",
+    "deploy": "netlify deploy --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.0.0"
+  },
+  "keywords": [
+    "netflix",
+    "clone",
+    "movies",
+    "tmdb",
+    "netlify",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
+
